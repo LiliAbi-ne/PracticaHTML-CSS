@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.background {
+    background: linear-gradient(to bottom right, #a1c4fd, #c2e9fb);
+    padding: 50px 0;
+}
+
+.card {
+    max-width: 600px;
+    margin: auto;
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+h2 {
+    color: #007bff;
+}
+
+.btn {
+    border-radius: 50px;
+}
